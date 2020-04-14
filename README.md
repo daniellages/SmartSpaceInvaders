@@ -18,6 +18,7 @@ The SmartSpaceInvaders game is a very simple version that can be upgraded at any
 - Make barriers
 - Increase speed of aliens overtime
 - Add Start menu
+- Add Delay to the pixels in the Game Over Menu
 - Add Machine Learning
 - Add High Score with mySQL
 
